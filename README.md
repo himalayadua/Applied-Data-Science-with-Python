@@ -2,7 +2,11 @@
 
 <p align="center"><img src="https://socialify.git.ci/himalayadua/Applied-Data-Science-with-Python/image?description=1&amp;language=1&amp;logo=https%3A%2F%2Fs3.amazonaws.com%2Fcoursera_assets%2Fmeta_images%2Fgenerated%2FXDP%2FXDP~SPECIALIZATION!~data-science-python%2FXDP~SPECIALIZATION!~data-science-python.jpeg&amp;name=1&amp;owner=1&amp;theme=Light" alt="project-image"></p>
 
-<p id="description">Applied Data Science with Python Specialization | University of Michigan | Coursera Specialization - 5 course series Rating: 4.5 Intermediate level 4 months at 10 hours a week</p>
+<p id="description">Applied Data Science with Python Specialization | University of Michigan | Coursera 
+Specialization - 5 course series 
+Rating: 4.5 
+Intermediate level 
+4 months at 10 hours a week</p>
 
 <p align="center"><img src="https://img.shields.io/badge/Coursera-blue" alt="shields"><img src="https://img.shields.io/badge/DataScience-orange" alt="shields"></p>
 
