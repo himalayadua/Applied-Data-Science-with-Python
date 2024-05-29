@@ -13,7 +13,6 @@ Intermediate level </br>
   
   
 <h2>🧐 Courses</h2>
-
 Here're the project's courses:
 
 *   Introduction to Data Science in Python | 34 Hours
@@ -24,5 +23,4 @@ Here're the project's courses:
 
 
 <h2>🛡️ License:</h2>
-
 This course is licensed under website: https://www.coursera.org/specializations/data-science-python
