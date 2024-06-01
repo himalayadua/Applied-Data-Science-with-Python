@@ -10,8 +10,7 @@ Intermediate level </br>
 
 <p align="center"><img src="https://img.shields.io/badge/Coursera-blue" alt="shields"><img src="https://img.shields.io/badge/DataScience-orange" alt="shields"></p>
 
-  
-  
+
 <h2>🧐 Courses</h2>
 Here're the project's courses:
 
